@@ -97,3 +97,6 @@ builtins.AttributeError: 'NoneType' object has no attribute 'bio_read'
 
 ## 更新列表
 &emsp; 2019/4/8 已更新。
+
+## 公告
+&emsp; 本代码仅作学习交流，若涉及58同城侵权，请邮箱联系，将在第一时间处理。
