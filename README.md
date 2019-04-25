@@ -99,4 +99,4 @@ builtins.AttributeError: 'NoneType' object has no attribute 'bio_read'
 &emsp; 2019/4/8 已更新。
 
 ## 公告
-&emsp; (技术无罪) 本代码仅作学习交流，若涉及58同城侵权，请邮箱联系，将在第一时间处理。
+&emsp; **本代码仅作学习交流，切勿用于商业用途，否则后果自负。若涉及58侵权，请邮箱联系，会尽快处理。**
