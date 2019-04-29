@@ -102,7 +102,7 @@ MYSQL_PORT = 3306
 # EMAIL SETTINGS
 MAIL_FROM = 'northxw@163.com'
 MAIL_HOST = 'smtp.163.com'
-MAIL_PORT = 25
+MAIL_PORT = 465
 MAIL_USER = 'northxw@163.com'
 MAIL_PASS = 'authcode'
 RECEIVE_LIST = ['northxw@qq.com', 'northxw@sina.com']
