@@ -82,21 +82,5 @@ def handlefont(page_source, prase_string):
 curl http://localhost:6800/schedule.json -d project=City58 -d spider=58
 ```
 
-## Bug
-&emsp; 由于某种原因，添加 Scrapy 内置邮件发送模块后，总会报错。但不影响正常的抓取流程。欢迎提交 issue。报错部分代码如下：
-```
-......
-File "C:\Users\xxxxxx\AppData\Local\Programs\Python\Python36\lib\site-packages\twisted\protocols\tls.py", line 252, in _flushSendBIO
-    bytes = self._tlsConnection.bio_read(2 ** 15)
-builtins.AttributeError: 'NoneType' object has no attribute 'bio_read'
-```
-
-## 待实现功能
-- 全国主要城市房屋信息可视化
-- ...
-
-## 更新列表
-&emsp; 2019/4/8 已更新。
-
 ## 公告
 &emsp; **本代码仅作学习交流，切勿用于商业用途，否则后果自负。若涉及58侵权，请邮箱联系，会尽快处理。**
